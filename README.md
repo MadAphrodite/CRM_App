@@ -24,7 +24,7 @@ The company is a digital agency offering innovative marketing and web design sol
 * During this project I gained experience and knowledge of API testing, creating test cases for API and executing different requests using Postman.
 * As a result of taking on additional responsibilities due to team member’s absence, I gained more experience with API testing and developed my skills in collaboration, communication and time management.
 * I reported 23 out of 51 bugs in a team of 5.
-* I created 61 out of 252 API requests in a team of 5.
+* I created 61 API requests.
 * I wrote 13 test cases as well as 3 complex flow test cases.
 * Upon reviewing my team’s work, I identified a misunderstanding regarding the use of the PATCH request and its distinction from the PUT request. I provided relevant learning materials to the team and assisted in correcting the requests to ensure the project's accuracy, success, and timely completion. 
 * While running the complete Postman collection for our team, I identified multiple test failures due to incorrect endpoints. I immediately reached out to the team and together, we successfully resolved the issues within the established timeline.
