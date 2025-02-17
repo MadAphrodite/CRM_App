@@ -1,17 +1,5 @@
 # CRM
-The company is a digital agency offering innovative marketing and web design solutions. They organize their sales and project management with a simple CRM platform. There are 3 main business processes that are supported by the CRM:
-* Collection of potential customers from different marketing channels and organising the marketing activities.
-* Preparing offers, negotiating terms with potential customers and signing contracts. 
-* Managing projects with the signed contracts and tracking the progress of projects.
-
-The main goal of this project is to make an API that covers all of the main functions of the CRM platform.
-
-## The vision
-Building a stable and well-tested API for the following functionalities of the CRM system:
-* Leads management (creation and management of the customer’s database)
-* Invitation of new users
-* Funnels management (creation and management of CRM funnels)
-* Deals management (creation and management of deals in different funnels)
+The company is a digital agency offering innovative marketing and web design solutions. They organize their sales and project management with a simple CRM platform. The main goal of this project is to make an API that covers all of the main functions of the CRM platform.
 
 ## Expected project outcomes
 1. Tested and stable API for the following functionalities:
@@ -19,7 +7,8 @@ Building a stable and well-tested API for the following functionalities of the C
     * Invitation of new users
     * Funnels management (creation and management of CRM funnels)
     * Deals management (creation and management of deals in different funnels)
-2. Testing documentation in a form of test cases and end-to-end test cases.
+    * Notes management(activity about deals)
+2. Testing documentation in a form of test cases.
 3. Postman collections for testing of API.
 
 ## My responsibilities and highlights during the project
